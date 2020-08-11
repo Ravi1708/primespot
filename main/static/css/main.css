@@ -1,0 +1,93 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 600;
+}
+h3 {
+  font-size: 1.5rem;
+}
+a {
+  color: #66fcf1;
+}
+
+input {
+  background-color: #1f2833 !important;
+  color: #66fcf1 !important;
+}
+img {
+  filter: grayscale(50%) brightness(0.8);
+}
+img.rounded-circle {
+  filter: none;
+}
+/*Header   */
+.navbar {
+  background-color: #000c10;
+  color: #66fcf1;
+}
+.btn-main {
+  background-color: #66fcf1 !important;
+  color: #0b0c10 !important;
+}
+
+/* acrousel slider */
+.carousel-item img {
+  margin: auto;
+}
+.carousel-inner {
+  background-color: black !important;
+}
+.carousel {
+  width: 80%;
+  margin: auto;
+  margin-top: 3rem;
+}
+/* main */
+.main {
+  background-color: #66fcf1;
+}
+.blog-post {
+  background-color: #1f2833;
+  color: #c5c6c7;
+}
+.badge > a {
+  margin-left: 0.5rem;
+  padding: 0.5rem;
+  background-color: #0b0c10;
+  color: #66fcf1;
+}
+.badge {
+  margin-top: 1rem;
+  padding-bottom: 0;
+}
+
+/* side-menu */
+
+.side-menu {
+  border-left: 2px solid black;
+}
+
+.categories .badges > a {
+  background-color: violet;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  color: #66fcf1;
+  display: inline-block;
+}
+.fa {
+  color: blue;
+}
+
+/*Footer*/
+
+.footer-div {
+  border-right: 2px solid black;
+}
+.footer-p {
+  text-align: center;
+}
