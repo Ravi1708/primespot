@@ -1,0 +1,2 @@
+# primespot
+The blogging website
